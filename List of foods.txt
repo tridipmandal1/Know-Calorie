@@ -1,0 +1,57 @@
+Aloo Chaat
+Pav Bhaji
+Pani Puri
+Kachori
+Kathi Roll
+Chole Kulche
+Egg Roll
+Fish Fry
+Samosa
+Aloo Tikki
+Bhel Puri
+Keema Pav
+Biryani
+Pulao
+Butter Chicken
+Paneer Butter Masala
+Dal Makhani
+Chicken Curry
+Palak Paneer
+Chole Masala
+Malai Kofta
+Fish Curry
+Rice
+Veg Thali
+Non-veg Thali
+Rice
+Mutton Curry
+Rajma Chawal
+Hyderabadi Biryani
+Jeera Rice
+Dum Aloo
+Kadai Paneer
+Aloo Gobi
+Pav Bhaji
+Vada Pav
+Dosa
+Idli
+Chole Bhature
+Aloo Paratha
+Bread Pakora
+Momo
+Khichdi
+Gulab Jamun
+Jalebi
+Dahi
+Rasgulla
+Kheer
+Kulfi
+Gajar ka Halwa
+Sandesh
+Malpua
+Barfi
+Paneer Tikka
+Chicken Tikka
+Vegetable Pakora
+Hara Bhara Kabab
+Dahi Puri

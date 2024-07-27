@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Know Calorie</title>
+    <link href="https://fonts.googleapis.com/css2?family=Pacifico&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="{{ url_for('static', filename='css/style.css') }}">
+</head>
+<body>
+    <h1>Know Calorie</h1>
+    <form action="{{ url_for('predict') }}" method="post" enctype="multipart/form-data">
+        <label for="file-upload" class="custom-file-upload">
+            Choose image
+        </label>
+        <input id="file-upload" type="file" name="file" required>
+        <br>
+        <button type="submit">Predict Calories</button>
+    </form>
+
+    <script src="{{ url_for('static', filename='js/script.js') }}"></script>
+</body>
+</html>

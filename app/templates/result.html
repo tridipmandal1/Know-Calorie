@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Know Calorie</title>
+    <link href="https://fonts.googleapis.com/css2?family=Pacifico&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="{{ url_for('static', filename='css/style.css') }}">
+</head>
+<body>
+    <h1>Know Calorie</h1>
+
+    {% if error %}
+        <p class="error">{{ error }}</p>
+    {% else %}
+        <p class="result"><strong>Predicted Calories:</strong> {{ calories }}/100gm</p>
+    {% endif %}
+    <a class="back" href="{{ url_for('index') }}">Go back</a>
+</body>
+</html>
